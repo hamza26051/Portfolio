@@ -8,7 +8,7 @@ I am an Artificial Intelligence undergraduate at FAST NUCES with practical exper
 ## Projects
 
 ### 1. Monkeypox Detection Using Deep Learning
-Repository: [github.com/hamza26051/monkeypox-detection]
+Repository: [github.com/hamza26051/monkeypox-detection]([github.com/hamza26051/monkeypox-detection])
 Technologies: TensorFlow, Keras, Python, CNN  
 
 Description:
@@ -22,7 +22,7 @@ Key Contributions:
 
 
 ### 2. Life Mirror – AI-Powered Self-Analysis App
-Repository: [github.com/hamza26051/lifemirror] 
+Repository: [github.com/hamza26051/lifemirror](github.com/hamza26051/lifemirror)
 Technologies:** Flask, TensorFlow, Python, Computer Vision  
 
 Description:
@@ -36,7 +36,7 @@ Key Contributions:
 
 
 ### 3. Dataset Model – Automated Machine Learning Pipeline
-Repository: [github.com/hamza26051/dataset-model] 
+Repository: [github.com/hamza26051/dataset-model](github.com/hamza26051/dataset-model) 
 Technologies: TensorFlow, Pandas, Scikit-learn, Python  
 
 Description:  
@@ -53,6 +53,6 @@ Key Contributions:
 Email: hamza.sheikh1720@gmail.com  
 Location: Karachi, Pakistan  
 GitHub:[github.com/hamza26051](https://github.com/hamza26051)  
-LinkedIn: (Add your LinkedIn profile link here if you have one)
+LinkedIn: [https://www.linkedin.com/in/hamza-sheikh-1aa27a2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/hamza-sheikh-1aa27a2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
