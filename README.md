@@ -1,7 +1,7 @@
 # Hamza Sheikh – AI Engineer Portfolio
 
 ## About Me
-I am an Artificial Intelligence undergraduate at FAST NUCES with practical experience in developing AI-driven applications using Python, TensorFlow, and Flask. My work focuses on building end-to-end systems that combine data preprocessing, model training, and deployment. I am passionate about solving real-world problems through machine learning and deep learning techniques.
+I am an Artificial Intelligence undergraduate at FAST NUCES with practical experience in developing AI driven applications using Python, TensorFlow, and Flask. My work focuses on building systems that combine data preprocessing, model training, and deployment. I am passionate about solving real world problems through machine learning and deep learning techniques.
 
 
 
@@ -12,16 +12,16 @@ Repository: [github.com/hamza26051/monkeypox-detection](https://github.com/hamza
 Technologies: TensorFlow, Keras, Python, CNN  
 
 Description:
-This project applies deep learning to detect monkeypox from skin lesion images. A Convolutional Neural Network (CNN) model was designed and trained to classify infected and non-infected cases. The system includes preprocessing and augmentation pipelines for improved generalization on limited datasets.  
+This project applies deep learning to detect monkeypox from skin lesion images. A Convolutional Neural Network (CNN) model was designed and trained to classify infected and non infected cases. The system includes preprocessing and augmentation pipelines for improved generalization on limited datasets.  
 
 Key Contributions:  
-- Built and fine-tuned a CNN model for medical image classification  
+- Built and fine tuned a CNN model for medical image classification  
 - Improved accuracy through hyperparameter optimization  
 - Applied image preprocessing and augmentation for better model performance  
 
 
 
-### 2. Life Mirror – AI-Powered Self-Analysis App
+### 2. Life Mirror – AI-Powered Self Analysis App
 Repository: ([github.com/hamza26051/lifemirror](https://github.com/hamza26051/lifemirror))
 Technologies:** Flask, TensorFlow, Python, Computer Vision  
 
@@ -31,16 +31,16 @@ Life Mirror is a Flask-based AI application that provides comprehensive personal
 Key Contributions:
 - Integrated multiple computer vision models into a single unified backend  
 - Automated image-based analysis with structured result generation  
-- Focused on modular design for scalability and real-time feedback  
+- Focused on modular design for scalability and real time feedback  
 
 
 
 ### 3. Dataset Model – Automated Machine Learning Pipeline
 Repository:([github.com/hamza26051/dataset-model](https://github.com/hamza26051/dataset-model)) 
-Technologies: TensorFlow, Pandas, Scikit-learn, Python  
+Technologies: TensorFlow, Pandas, Scikit learn, Python  
 
 Description:  
-This project demonstrates an end-to-end ML pipeline for dataset preparation, feature encoding, scaling, and model training. The pipeline is designed to handle both categorical and numerical data efficiently while maintaining interpretability.  
+This project demonstrates a ML pipeline for dataset preparation, feature encoding, scaling, and model training. The pipeline is designed to handle both categorical and numerical data efficiently while maintaining interpretability.  
 
 Key Contributions: 
 - Implemented a clean data preprocessing and transformation workflow  
