@@ -22,7 +22,7 @@ Key Contributions:
 
 
 ### 2. Life Mirror – AI-Powered Self-Analysis App
-Repository: [github.com/hamza26051/lifemirror](github.com/hamza26051/lifemirror)
+Repository: ([github.com/hamza26051/lifemirror](https://github.com/hamza26051/lifemirror))
 Technologies:** Flask, TensorFlow, Python, Computer Vision  
 
 Description:
@@ -36,7 +36,7 @@ Key Contributions:
 
 
 ### 3. Dataset Model – Automated Machine Learning Pipeline
-Repository: [github.com/hamza26051/dataset-model](github.com/hamza26051/dataset-model) 
+Repository:([github.com/hamza26051/dataset-model](https://github.com/hamza26051/dataset-model)) 
 Technologies: TensorFlow, Pandas, Scikit-learn, Python  
 
 Description:  
