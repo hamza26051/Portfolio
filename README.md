@@ -8,7 +8,7 @@ I am an Artificial Intelligence undergraduate at FAST NUCES with practical exper
 ## Projects
 
 ### 1. Monkeypox Detection Using Deep Learning
-Repository: [github.com/hamza26051/monkeypox-detection]([github.com/hamza26051/monkeypox-detection])
+Repository: [github.com/hamza26051/monkeypox-detection](https://github.com/hamza26051/monkeypox-detection)
 Technologies: TensorFlow, Keras, Python, CNN  
 
 Description:
